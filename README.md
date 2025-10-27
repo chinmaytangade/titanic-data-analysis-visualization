@@ -38,9 +38,9 @@ Contains passenger details such as age, gender, class, fare, and survival status
 - **Younger passengers** survived slightly more  
 
 ---
-👨‍💻 Author
+##👨‍💻 Author
 
-Chinmay Tangade
+-Chinmay Tangade
 Data Analytics Enthusiast | Python | Visualization
 
 ---
