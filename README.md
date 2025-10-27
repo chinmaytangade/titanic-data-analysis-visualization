@@ -38,14 +38,15 @@ Contains passenger details such as age, gender, class, fare, and survival status
 - **Younger passengers** survived slightly more  
 
 ---
+👨‍💻 Author
 
+Chinmay Tangade
+Data Analytics Enthusiast | Python | Visualization
+
+---
 ## ⚙️ How to Run
 ```bash
 git clone https://github.com/ChinmayTangade/Titanic_EDA.git
 cd Titanic_EDA
 pip install pandas numpy matplotlib seaborn
 
-👨‍💻 Author
-
-Chinmay Tangade
-Data Analytics Enthusiast | Python | Visualization
